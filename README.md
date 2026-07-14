@@ -16,6 +16,14 @@ Skills for weaving security review into an agentic development workflow, from sp
 | [threat-modelling](skills/security/threat-modelling) | Spec validation / pre-deploy | Runs a structured STRIDE threat model against an architecture, data-flow diagram, or feature spec |
 | [post-deploy-security-checklist](skills/security/post-deploy-security-checklist) | Release time | Pre- and post-deploy checklist covering secrets, dependencies, auth, monitoring, and rollback readiness |
 
+### Productivity
+
+Skills for improving how agents and humans work together over time:
+
+| Skill | Use it during | What it does |
+|---|---|---|
+| [agent-experience-interview](skills/productivity/agent-experience-interview) | Retro / continuous improvement | Runs a developer-experience-style interview where the AI agent is the interviewee, grounding answers in its recorded memory to surface friction, decisions, and lessons from past work |
+
 ### Installation
 
 Install an individual skill via the [skills CLI](https://docs.claude.com/en/docs/claude-code/skills):
